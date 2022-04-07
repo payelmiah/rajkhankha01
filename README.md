@@ -2,6 +2,10 @@
 
 <h3 align="center">HI 👋, Welcome to my GitHub profile</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkhankha01&label=Profile%20views&color=129e00&style=plastic" alt="rajkhankha01" /> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/rajkhankha01/rajkhankha01/blob/main/4700396.jpg">
+
+
 
 
 <h3 align="left">Connect with me:</h3>
