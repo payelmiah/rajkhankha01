@@ -4,7 +4,7 @@ HI, Wellcome to my github profile.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/khushboogoel01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rajkhankha01" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/payel-miah-29b98b17a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajkhankha01" height="30" width="40" /></a>
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
 <a href="https://www.youtube.com/playlist?list=PL8LFgneLZLPGILpeXdLW7oyD-F2rHLPAX" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="rajkhankha01 goel" height="30" width="40" /></a>
@@ -15,6 +15,7 @@ HI, Wellcome to my github profile.
 -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkhankha01&show_icons=true&locale=en&layout=compact" alt="rajkhankha01" /></p>
 
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajkhankha01&show_icons=true&locale=en" alt="rajkhankha01" /></p>
 
 
