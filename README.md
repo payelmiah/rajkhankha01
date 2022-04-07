@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/rajkhankha01/rajkhankha01/blob/main/banner.png"/></a>
 
-<h3 align="left">HI, Welcome to my GitHub profile</h3>
+<h3 align="left">HI 👋, Welcome to my GitHub profile</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
