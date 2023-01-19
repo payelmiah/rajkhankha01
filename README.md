@@ -22,24 +22,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajkhankha01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true" alt="rajkhankha01" /></p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajkhankha01&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="rajkhankha01" /></p>
-
-
-
-
-
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=rajkhankha01&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=rajkhankha01&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=rajkhankha01&show_icons=true" />
-</picture>
